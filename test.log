@@ -1,0 +1,281 @@
+
+> sightstudy@0.0.1 start
+> react-native start
+
+                                                      
+                        #######                       
+                   ################                   
+                #########     #########               
+            #########             ##########          
+        #########        ######        #########      
+       ##########################################     
+      #####      #####################       #####    
+      #####          ##############          #####    
+      #####    ###       ######       ###    #####    
+      #####    #######            #######    #####    
+      #####    ###########    ###########    #####    
+      #####    ##########################    #####    
+      #####    ##########################    #####    
+      #####      ######################     ######    
+       ######        #############        #######     
+         #########        ####       #########        
+              #########          #########            
+                  ######### #########                 
+                       #########                      
+                                                      
+                                                      
+                    Welcome to Metro!
+              Fast - Scalable - Integrated
+
+
+
+To reload the app press "r"
+To open developer menu press "d"
+
+transform[stderr]: Browserslist: caniuse-lite is outdated. Please run:
+transform[stderr]: npx browserslist@latest --update-db
+transform[stderr]: 
+transform[stderr]: Why you should do it regularly:
+transform[stderr]: https://github.com/browserslist/browserslist#browsers-data-updating
+transform[stderr]: Browserslist: caniuse-lite is outdated. Please run:
+transform[stderr]: npx browserslist@latest --update-db
+transform[stderr]: 
+transform[stderr]: Why you should do it regularly:
+transform[stderr]: https://github.com/browserslist/browserslist#browsers-data-updating
+transform[stderr]: Browserslist: caniuse-lite is outdated. Please run:
+transform[stderr]: npx browserslist@latest --update-db
+transform[stderr]: 
+transform[stderr]: Why you should do it regularly:
+transform[stderr]: https://github.com/browserslist/browserslist#browsers-data-updating
+ BUNDLE  ./index.js 
+
+ LOG  Running "SightStudy" with {"rootTag":1}
+ WARN  Constants.installationId has been deprecated in favor of generating and storing your own ID. Implement it using expo-application's androidId on Android and a storage API such as expo-secure-store on iOS and localStorage on the web. This API will be removed in SDK 44.
+ WARN  Constants.deviceId has been deprecated in favor of generating and storing your own ID. This API will be removed in SDK 44.
+ WARN  Constants.linkingUrl has been renamed to Constants.linkingUri. Consider using the Linking API directly. Constants.linkingUrl will be removed in SDK 44.
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["j'ai"]}
+ LOG  onSpeechResults:  ["j'ai", "G", "g", "J'ai", "j'ai"] 1
+ LOG  current score: 1  previous letter : g
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["J", "j", "j'y", "ji", "GIE", ""] 2
+ LOG  current score: 2  previous letter : j
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["H", "h", "Ash", "hache", "ash", ""] 3
+ LOG  current score: 3  previous letter : h
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["f"]}
+ LOG  onSpeechResults:  ["f", "F", "œuf", "ff", "F1", "f"] 4
+ LOG  current score: 4  previous letter : f
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["c'est", "C'est", "c' est", "Seth", "s'est", ""] 5
+ LOG  current score: 5  previous letter : c
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["elle"]}
+ LOG  onSpeechResults:  ["elle", "Elle", "L", "el", "l", "elle"] 6
+ LOG  current score: 6  previous letter : l
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["B", "b", "bébé", "baie", "Bay", ""] 7
+ LOG  current score: 7  previous letter : b
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": ["des"]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["dès"]}
+ LOG  onSpeechResults:  ["dès", "des", "D", "Dès", "d", "dès"] 8
+ LOG  current score: 8  previous letter : d
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["elle"]}
+ LOG  onSpeechResults:  ["elle", "Elle", "L", "el", "l", "elle"] 9
+ LOG  current score: 9  previous letter : l
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["dès", "des", "D", "Dès", "d", ""] 10
+ LOG  current score: 10  previous letter : d
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["B", "b", "bébé", "baie", "Bay", ""] 11
+ LOG  current score: 11  previous letter : b
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["j'ai"]}
+ LOG  onSpeechPartialResults:  {"value": ["j'ai"]}
+ LOG  onSpeechResults:  ["j'ai", "G", "g", "J'ai", "GG", "j'ai"] 12
+ LOG  current score: 12  previous letter : g
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["B"]}
+ LOG  onSpeechResults:  ["B", "b", "bébé", "baie", "Bay", "B"] 13
+ LOG  current score: 13  previous letter : b
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["f", "F", "œuf", "ff", "F1", ""] 14
+ LOG  current score: 14  previous letter : f
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["caca", "K", "CAC", "k", "cas", ""] 15
+ LOG  current score: 15  previous letter : k
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["f", "F", "ff", "fr", "éph", ""] 16
+ LOG  current score: 16  previous letter : f
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": ["bébé"]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["B", "b", "bébé", "baie", "Bay", "bébé"] 17
+ LOG  current score: 17  previous letter : b
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["H"]}
+ LOG  onSpeechResults:  ["H", "h", "Ash", "hache", "ash", "H"] 18
+ LOG  current score: 18  previous letter : h
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["M"]}
+ LOG  onSpeechResults:  ["M", "m", "em", "aime", "Hem", "M"] 19
+ LOG  current score: 19  previous letter : m
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["j'ai"]}
+ LOG  onSpeechResults:  ["j'ai", "G", "g", "J'ai", "j' ai", "j'ai"] 20
+ LOG  current score: 20  previous letter : g
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["J", "j", "j'y", "j'ai", ""] 21
+ LOG  current score: 21  previous letter : j
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechError:  {"error": {"code": "7", "message": "7/No match"}}
+ LOG  _stopRecognizing
+ LOG  onSpeechError:  {"error": {"code": "5", "message": "5/Client side error"}}
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["K"]}
+ LOG  onSpeechResults:  ["K", "caca", "CAC", "k", "cas", "K"] 22
+ LOG  current score: 22  previous letter : k
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": ["B"]}
+ LOG  onSpeechResults:  ["B", "b", "bébé", "baie", "Bay", "B"] 23
+ LOG  current score: 23  previous letter : b
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["elle", "Elle", "L", "el", "l", ""] 24
+ LOG  current score: 24  previous letter : l
+ LOG  _startRecognizing
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechStart:  {"error": false}
+ LOG  onSpeechPartialResults:  {"value": [""]}
+ LOG  onSpeechEnd:  {"error": false}
+ LOG  onSpeechResults:  ["H", "h", "Ash", "hache", "ash", ""] 25
+ LOG  current score: 25  previous letter : h
+ LOG  _startRecognizing
+ LOG   _destroyRecognizer
+ LOG  FIN DU TEST
+error: SyntaxError: C:\Users\theop\Desktop\Sight_21-master\src\utils\config.js: Unexpected token, expected "," (60:4)
+
+  58 |     x: ["X", "XX", "x", "IKKS", "xx", "X"],
+  59 |     y: ["y", "Y", "îles grecques", "Isaac", ""]
+> 60 |     z: ["z", "Z", "Zed", "Zedd", "ZZ", "z"]
+     |     ^
+  61 | };
+  62 |
+ ERROR  [Error: TransformError SyntaxError: C:\Users\theop\Desktop\Sight_21-master\src\utils\config.js: Unexpected token, expected "," (60:4)
+
+[0m [90m 58 |[39m     x[33m:[39m [[32m"X"[39m[33m,[39m [32m"XX"[39m[33m,[39m [32m"x"[39m[33m,[39m [32m"IKKS"[39m[33m,[39m [32m"xx"[39m[33m,[39m [32m"X"[39m][33m,[39m[0m
+[0m [90m 59 |[39m     y[33m:[39m [[32m"y"[39m[33m,[39m [32m"Y"[39m[33m,[39m [32m"îles grecques"[39m[33m,[39m [32m"Isaac"[39m[33m,[39m [32m""[39m][0m
+[0m[31m[1m>[22m[39m[90m 60 |[39m     z[33m:[39m [[32m"z"[39m[33m,[39m [32m"Z"[39m[33m,[39m [32m"Zed"[39m[33m,[39m [32m"Zedd"[39m[33m,[39m [32m"ZZ"[39m[33m,[39m [32m"z"[39m][0m
+[0m [90m    |[39m     [31m[1m^[22m[39m[0m
+[0m [90m 61 |[39m }[33m;[39m[0m
+[0m [90m 62 |[39m[0m]

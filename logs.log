@@ -1,0 +1,49 @@
+
+> sightstudy@0.0.1 start
+> react-native start
+
+                                                      
+                        #######                       
+                   ################                   
+                #########     #########               
+            #########             ##########          
+        #########        ######        #########      
+       ##########################################     
+      #####      #####################       #####    
+      #####          ##############          #####    
+      #####    ###       ######       ###    #####    
+      #####    #######            #######    #####    
+      #####    ###########    ###########    #####    
+      #####    ##########################    #####    
+      #####    ##########################    #####    
+      #####      ######################     ######    
+       ######        #############        #######     
+         #########        ####       #########        
+              #########          #########            
+                  ######### #########                 
+                       #########                      
+                                                      
+                                                      
+                    Welcome to Metro!
+              Fast - Scalable - Integrated
+
+
+
+To reload the app press "r"
+To open developer menu press "d"
+
+transform[stderr]: Browserslist: caniuse-lite is outdated. Please run:
+transform[stderr]: npx browserslist@latest --update-db
+transform[stderr]: 
+transform[stderr]: Why you should do it regularly:
+transform[stderr]: https://github.com/browserslist/browserslist#browsers-data-updating
+transform[stderr]: Browserslist: caniuse-lite is outdated. Please run:
+transform[stderr]: npx browserslist@latest --update-db
+transform[stderr]: 
+transform[stderr]: Why you should do it regularly:
+transform[stderr]: https://github.com/browserslist/browserslist#browsers-data-updating
+transform[stderr]: Browserslist: caniuse-lite is outdated. Please run:
+transform[stderr]: npx browserslist@latest --update-db
+transform[stderr]: 
+transform[stderr]: Why you should do it regularly:
+transform[stderr]: https://github.com/browserslist/browserslist#browsers-data-updating
