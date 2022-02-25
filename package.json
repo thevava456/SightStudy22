@@ -45,7 +45,7 @@
     "react-native-svg": "^12.1.1",
     "react-native-system-setting": "^1.7.6",
     "react-native-tts": "^4.1.0",
-    "react-native-unimodules": "^0.13.3"
+    "react-native-unimodules": "^0.14.10"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
