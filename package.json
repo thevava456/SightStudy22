@@ -26,7 +26,7 @@
     "date-fns": "^2.21.3",
     "expo-font": "^9.1.0",
     "expo-keep-awake": "^9.1.2",
-    "expo-sqlite": "^9.1.0",
+    "expo-sqlite": "^10.3.0",
     "moment": "^2.29.1",
     "react": "17.0.1",
     "react-native": "^0.64.0",
